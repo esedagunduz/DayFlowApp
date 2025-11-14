@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSUserNotificationsUsageDescription</key>
+    <string>DayFlow görevleriniz için size hatırlatmalar göndermek istiyor.</string>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>remote-notification</string>
+    </array>
+    <key>FirebaseAppDelegateProxyEnabled</key>
+    <false/>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Google</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.81892622743-lhnmsp4eamdnpu87thmdp0e1r5u7o8c7</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSUserNotificationsUsageDescription
+NSUserNotificationsUsageDescription
+</key>
+	<string></string>
+</dict>
+</plist>
