@@ -1,4 +1,4 @@
-# 📅 DayFlow
+# 📱 DayFlow
 
 DayFlow is a SwiftUI-based iOS application that focuses on intelligent task management through a custom-trained **CoreML** model, advanced scheduling logic, and reactive data handling.
 
